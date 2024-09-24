@@ -25,4 +25,3 @@
 
 - New Stack
     - Elastic Search
-
